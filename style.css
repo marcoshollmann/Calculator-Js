@@ -29,7 +29,8 @@ table td {
   width: 50px;
   height: 40px;
   cursor: pointer;
-  border: none;
+  border: 1px;
+  border-radius: 12px;
   background-color: #1b1b1b;
   color: #dfdfdf;
   font-size: 16px;
