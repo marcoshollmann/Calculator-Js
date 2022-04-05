@@ -6,7 +6,7 @@
 }
 
 body {
-  background-color: springgreen;
+  background-color: #292929;
 }
 
 .calculator {
@@ -30,37 +30,37 @@ table td {
   height: 40px;
   cursor: pointer;
   border: none;
-  background-color: #0c1a21;
+  background-color: #1b1b1b;
   color: #dfdfdf;
   font-size: 16px;
   transition: all 50ms ease-in-out;
 }
 .btn:hover {
-  background-color: #162f3b;
+  background-color: #292929;
 }
 
 .ac {
-  background-color: #1b7269;
+  background-color: #ffa31a;
 }
 
 .ac:hover {
-  background-color: #228f84;
+  background-color: #1b1b1b;
 }
 
 .especial {
-  background-color: #228f84;
+  background-color: #ffa31a;
 }
 
 .especial:hover {
-  background-color: #18646b;
+  background-color: #1b1b1b;
 }
 
 .igual {
-  background-color: #1b7269;
+  background-color: #ffa31a;
 }
 
 .igual:hover {
-  background-color: #25968a;
+  background-color: #1b1b1b;
 }
 
 .result {
@@ -69,5 +69,5 @@ table td {
   text-align: right;
   font-size: 35px;
   word-wrap: break-word;
-  border-bottom: 1px solid #25968a;
+  border-bottom: 1px solid #808080;
 }
